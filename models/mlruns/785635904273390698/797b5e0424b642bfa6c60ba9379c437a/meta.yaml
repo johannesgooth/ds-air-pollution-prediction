@@ -1,0 +1,15 @@
+artifact_uri: /Users/hannes/Documents/coding/projects/neuefische/ds-zindi-air-pollution/notebooks/../models/mlruns/785635904273390698/797b5e0424b642bfa6c60ba9379c437a/artifacts
+end_time: 1727858745383
+entry_point_name: ''
+experiment_id: '785635904273390698'
+lifecycle_stage: active
+run_id: 797b5e0424b642bfa6c60ba9379c437a
+run_name: Training_and_Testing_Evaluation
+run_uuid: 797b5e0424b642bfa6c60ba9379c437a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727858744441
+status: 3
+tags: []
+user_id: hannes
