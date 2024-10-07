@@ -64,7 +64,11 @@ To replicate and run this project locally, follow these steps:
 3. **Install dependencies:**
 
    ```bash
-   pip install -r requirements.txt
+   pyenv local 3.11.3
+   python -m venv .mlflow_venv
+   source .mlflow_venv/bin/activate
+   pip install --upgrade pip
+   pip install -r requirements.txt  
    ```
 
 4. **Launch Jupyter Notebook:**
