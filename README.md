@@ -1,7 +1,4 @@
 ![Screenshot](.streamlit/header.png "This is the header of the project")
-
-# ds-air-pollution-prediction
-
 ## Executive Summary
 
 This data science project aims to predict daily PM2.5 particulate matter concentrations across various locations in Africa. The dataset, originally provided for a **Zindi challenge in April 2020**, includes ground sensor, satellite, and weather data. Utilizing this data, we’ve developed multiple models that accurately forecast air quality, which is critical for public health and environmental monitoring. This report details the process from data collection to deploying a predictive application, providing insights and methodologies used throughout the project.
